@@ -2,5 +2,8 @@ RENCANA BAHASA
 
 -Javascript
   ^Framework javascript
+    ^Vue
 -PHP
+  ^Laravel
 -Fundamental data struktur
+-Python
