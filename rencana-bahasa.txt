@@ -2,5 +2,8 @@ RENCANA BAHASA
 
 -Javascript
   ^Framework javascript
+    ^Angular
+    ^React
 -PHP
+  ^Laravel
 -Fundamental data struktur
