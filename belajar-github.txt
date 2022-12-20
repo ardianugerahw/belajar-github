@@ -1,3 +1,4 @@
 RESOLUSI BELAJAR
 -apa itu git dan github
 -bekerja dengan github
+-github branch
