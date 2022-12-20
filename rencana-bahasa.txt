@@ -3,6 +3,7 @@ RENCANA BAHASA
 -Javascript
   ^Framework javascript
     ^Vue
+    ^React
 -PHP
   ^Laravel
 -Fundamental data struktur
