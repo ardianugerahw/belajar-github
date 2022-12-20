@@ -3,3 +3,4 @@ RENCANA BAHASA
 -Javascript
   ^Framework javascript
 -PHP
+-Fundamental data struktur
