@@ -13,15 +13,16 @@ Materi Git
 - history               = ketika sudah melakukan commit maka file akan masuk area disini (git commit)
 
 Contoh command pada git
-- git --version         = untuk mengetahui versi git
-- pwd                   = print working directory (untuk mengetahui direktori kita berada)
-- ls                    = list untuk mengetahui dalam sebuah direktori ada file apa aja (warna biru tua ada slashnya itu folder)
-- cd                    = change directory (untuk mengubah direktori)
-- clear                 = untuk menghapus command di bash git
-- vim                   = coba masuk ke teks editor vim
-- :q! enter             = untuk keluar dari teks editior vim
-- git commit -m "file"  = untuk menambahkan komen pada commit 
-- git add .             = untuk memindahkan semua file yang terdapat perubahan ke dalam staging area
-- git log               = untuk melihat perubahan commit apa saja yang sudah dilakukan
-- git log -angka        = untuk melihat perubahan commit dengan jumlah berdasarkan inputan angka 
-- git log -- <file>     = untuk melihat perubahan commit pada file spesifik (contoh git log -- style.css) 
+- git --version                 = untuk mengetahui versi git
+- pwd                           = print working directory (untuk mengetahui direktori kita berada)
+- ls                            = list untuk mengetahui dalam sebuah direktori ada file apa aja (warna biru tua ada slashnya itu folder)
+- cd                            = change directory (untuk mengubah direktori)
+- clear                         = untuk menghapus command di bash git
+- vim                           = coba masuk ke teks editor vim
+- :q! enter                     = untuk keluar dari teks editior vim
+- git commit -m "file"          = untuk menambahkan komen pada commit 
+- git add .                     = untuk memindahkan semua file yang terdapat perubahan ke dalam staging area
+- git log                       = untuk melihat perubahan commit apa saja yang sudah dilakukan
+- git log -angka                = untuk melihat perubahan commit dengan jumlah berdasarkan inputan angka 
+- git log -- <file>             = untuk melihat perubahan commit pada file spesifik (contoh git log -- style.css) 
+- git checkout 5hash -- <file>  = untuk mengembalikan keadaan saat suatu file belum terhapus (contoh git checkout c1a36 -- style.css)
