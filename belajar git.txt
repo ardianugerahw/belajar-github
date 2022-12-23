@@ -1,0 +1,20 @@
+Materi Git
+- git init          = untuk menginisialisasi repo
+- git add <file(s)> = menambahkan file kedalam staging area
+- git status        = untuk mengecek status
+- git commit        = untuk menandai perubahan pada repo
+- git config        = untuk mengkonfigurasi git pada lokal
+- git branch        = untuk membuat cabang pada file repo
+- git help          = untuk mengetahui fungsi perintah git
+
+3 Area pada repo
+- working tree      = folder tempat bekerja
+- staging area      = memberitahu git ketika melakukan perubahan (git add)
+- history           = ketika sudah melakukan commit maka file akan masuk area disini (git commit)
+
+Contoh command pada git
+- git --version     = untuk mengetahui versi git
+- pwd               = print working directory (untuk mengetahui direktori kita berada)
+- ls                = list untuk mengetahui dalam sebuah direktori ada file apa aja (warna biru tua ada slashnya itu folder)
+- cd                = change directory (untuk mengubah direktori)
+- clear             = untuk menghapus command di bash git
