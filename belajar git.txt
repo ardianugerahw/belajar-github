@@ -21,3 +21,4 @@ Contoh command pada git
 - vim                   = coba masuk ke teks editor vim
 - :q! enter             = untuk keluar dari teks editior vim
 - git commit -m "file"  = untuk menambahkan komen pada commit 
+- git add .             = untuk memindahkan semua file yang terdapat perubahan ke dalam staging area
