@@ -24,3 +24,4 @@ Contoh command pada git
 - git add .             = untuk memindahkan semua file yang terdapat perubahan ke dalam staging area
 - git log               = untuk melihat perubahan commit apa saja yang sudah dilakukan
 - git log -angka        = untuk melihat perubahan commit dengan jumlah berdasarkan inputan angka 
+- git log -- <file>     = untuk melihat perubahan commit pada file spesifik (contoh git log -- style.css) 
