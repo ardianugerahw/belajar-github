@@ -20,7 +20,7 @@ Contoh command pada git
 - clear                         = untuk menghapus command di bash git
 - vim                           = coba masuk ke teks editor vim
 - :q! enter                     = untuk keluar dari teks editior vim
-- git commit -m "file"          = untuk menambahkan komen pada commit 
+- git commit -m "pesan file"    = untuk menambahkan komen pada commit 
 - git add .                     = untuk memindahkan semua file yang terdapat perubahan ke dalam staging area
 - git log                       = untuk melihat perubahan commit apa saja yang sudah dilakukan
 - git log -angka                = untuk melihat perubahan commit dengan jumlah berdasarkan inputan angka 
