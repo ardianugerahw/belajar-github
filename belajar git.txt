@@ -28,3 +28,4 @@ Contoh command pada git
 - git checkout 5hash -- <file>  = untuk mengembalikan keadaan saat suatu file belum terhapus (contoh git checkout c1a36 -- style.css)
 - git rm --cached <file(s)>     = untuk mengeluarkan file dari staging area
 - git -am "pesan file"          = alternatif command saat sebuah file di modifikasi
+- git branch <nama_branch>      = untuk membuat branch tanpa membuat commit baru (biasanya digunakan untuk membuat fitur)
