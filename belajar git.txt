@@ -36,3 +36,4 @@ Contoh command pada git
 - git log --all --decorate --oneline --graph               = untuk membuat visualisasi branch dalam bentuk graph
 - alias = "git log --all --decorate --oneline --graph"     = untuk meringkas perintah git visualisasi 
 - git merge <nama_branch>       = untuk menyatukan file master ke dalam file branch dengan catatan harus checkout ke branch master dulu (contoh git merge dosen)
+- git branch --merged           = untuk mengecek branch mana yang sudah di merge
