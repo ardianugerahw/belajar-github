@@ -27,3 +27,4 @@ Contoh command pada git
 - git log -- <file>             = untuk melihat perubahan commit pada file spesifik (contoh git log -- style.css) 
 - git checkout 5hash -- <file>  = untuk mengembalikan keadaan saat suatu file belum terhapus (contoh git checkout c1a36 -- style.css)
 - git rm --cached <file(s)>     = untuk mengeluarkan file dari staging area
+- git -am "pesan file"          = alternatif command saat sebuah file di modifikasi
