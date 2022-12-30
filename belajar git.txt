@@ -45,3 +45,4 @@ Contoh command pada git
 - git remote -v                 = untuk mengecek alamat remote repo yang diclone
 - git push                      = untuk mengirimkan perubahan git ke dalam github  
 - git config --list             = untuk mengecek konfigurasi git termasuk nama dan email pengguna git
+- cd ..                         = command untuk keluar folder
