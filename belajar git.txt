@@ -41,3 +41,5 @@ Contoh command pada git
 - git branch -d <nama_branch>   = untuk menghapus sebuah branch dengan mengecek sudah di merge atau belum (contoh git branch -d dosen)
 - git branch -D <nama_graph>    = untuk menghapus sebuah branch tanpa mengecek sudah dimerge atau belum
 - git clone http://website      = untuk mengkloning repo github ke git lokal dengan http
+- git remote                    = untuk mengecek nama default remote repo yang diclone
+- git remote -v                 = untuk mengecek alamat remote repo yang diclone
