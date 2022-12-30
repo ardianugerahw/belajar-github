@@ -43,3 +43,4 @@ Contoh command pada git
 - git clone http://website      = untuk mengkloning repo github ke git lokal dengan http
 - git remote                    = untuk mengecek nama default remote repo yang diclone
 - git remote -v                 = untuk mengecek alamat remote repo yang diclone
+- git push                      = untuk mengirimkan perubahan git ke dalam github  
