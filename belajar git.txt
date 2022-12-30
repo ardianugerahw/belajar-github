@@ -47,5 +47,7 @@ Contoh command pada git
 - git config --list             = untuk mengecek konfigurasi git termasuk nama dan email pengguna git
 - cd ..                         = command untuk keluar folder
 - mkdir nama_folder             = command untuk membuat folder/direktori baru 
+- git remote add origin http:/  = command untuk mengkoneksikan repo yang berada di github ke git
+- git push -u origin master     = command untuk mengirimkan file yang berada di git ke dalam repo github yang baru dibuat
 - git fetch                     = untuk mengecek repo yang ada di remote sudah sampai mana commitnya
 - git pull                      = untuk mengambil codingan yang berada di remote untuk di merge di lokal jika ada conflict
