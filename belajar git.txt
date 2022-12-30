@@ -46,3 +46,4 @@ Contoh command pada git
 - git push                      = untuk mengirimkan perubahan git ke dalam github  
 - git config --list             = untuk mengecek konfigurasi git termasuk nama dan email pengguna git
 - cd ..                         = command untuk keluar folder
+- mkdir nama_folder             = command untuk membuat folder/direktori baru 
