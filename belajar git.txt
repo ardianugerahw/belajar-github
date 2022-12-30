@@ -6,6 +6,7 @@ Materi Git
 - git config            = untuk mengkonfigurasi git pada lokal
 - git branch            = untuk membuat cabang pada file repo
 - git help              = untuk mengetahui fungsi perintah git
+- git remote            = untuk mengkloning repo di github ke git lokal
 
 3 Area pada git repo
 - working tree          = folder tempat bekerja
