@@ -1,5 +1,10 @@
 RESOLUSI BELAJAR
--apa itu git dan github
--bekerja dengan github
--github branch
-
+-apa itu git dan github   = keduanya vcs (version control system) yang berfungsi mengelola perubahan file dalam repo
+-bekerja dengan github    = pake push pull remote 
+-github branch            = berupa cabang yang bisa dikembangkan dari file master 
+-github fork              = mengklon repo lain seperti repo punya orang  
+-bekerja dengan git       = pake command init, add, commit, remote, push, status, branch, merge, dll
+-git branch & merge       = berfungsi jika ingin membuat lebih dari satu fitur dalam sebuah website
+-git merge conflict       = berfungsi jika terdapat baris code yang berbeda antar git dan github
+-git remote               = berfungsi untuk mengupdate file yang berada di git dan di github
+-github pages             = berfungsi untuk menjadikan github sebagai web hosting untuk web statis gratis
