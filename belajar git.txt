@@ -52,4 +52,4 @@ Contoh command pada git
 - git fetch                     = untuk mengecek repo yang ada di remote sudah sampai mana commitnya
 - git pull                      = untuk mengambil codingan yang berada di remote untuk di merge di lokal jika ada conflict
 - git fetch <namaremote>        = untuk mengambil commit dari repo bisa dari repo orang lain (contoh git fetch tesmultiple)
-- git merge <nama remote> <nama branch>        = untuk menggabungkan perubahan file repo yang ada di git lokal dan di github orang lain
+- git merge <nama remote>/<nama branch>        = untuk menggabungkan perubahan file repo yang ada di git lokal dan di github orang lain (contoh git merge tesmultiple/main)
