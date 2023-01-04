@@ -8,3 +8,4 @@ RESOLUSI BELAJAR
 -git merge conflict       = berfungsi jika terdapat baris code yang berbeda antar git dan github
 -git remote               = berfungsi untuk mengupdate file yang berada di git dan di github
 -github pages             = berfungsi untuk menjadikan github sebagai web hosting untuk web statis gratis
+-multiple remote           = berfungsi untuk terhubung dan sinkron ke beberapa remote sekaligus 
