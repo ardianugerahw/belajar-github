@@ -7,7 +7,9 @@ Materi Git
 - git branch            = untuk membuat cabang pada file repo
 - git help              = untuk mengetahui fungsi perintah git
 - git remote            = untuk mengkloning repo di github ke git lokal
-- git ignore            = git ignore adalah sebuah file yang bisa yang disimpan di git repositori agar ketika melakukan add dan commit ada file yang tidak ikut terbawa ke dalam commit
+- git ignore            = git ignore adalah sebuah file yang bisa yang disimpan di git repositori agar ketika                                   melakukan add dan commit ada file yang tidak ikut terbawa ke dalam commit
+
+- git rebase            = untuk menghindari three way merging yang menambah satu commit (contoh kasus : ada tim                                 beranggotakan orang A dan orang B yang melakukan colaborasi github, orang A membuat fitur                             di induk branch master v1, sedangkan orang B membuat updatean induk branch master menjadi                             v2, orang A berkeinginan fiturnya berada di induk branch master v2 sehingga orang A akan                             membuat git rebase <nama_branch_fitur> ke branch master v2 dari branch fitur, lalu git                               rebase <nama_branch_master v2> ke branch fitur dari branch master v2, merging pun berhasil                           dilakukan)
 
 3 Area pada git repo
 - working tree          = folder tempat bekerja
@@ -62,3 +64,7 @@ Contoh command pada git
                                  gitignore.io
                                  
                                  )  
+                                 
+- code .                        =cuntuk membuka visual studio code
+- git checkout -b <nama_branch>         = 2 perintah sekaligus yakni buat branch dan pindah branch
+- git rebase <nama_branch>              =  untuk merging tanpa pakai metode three way
