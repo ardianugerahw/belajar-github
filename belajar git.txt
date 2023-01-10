@@ -7,6 +7,7 @@ Materi Git
 - git branch            = untuk membuat cabang pada file repo
 - git help              = untuk mengetahui fungsi perintah git
 - git remote            = untuk mengkloning repo di github ke git lokal
+- git ignore            = git ignore adalah sebuah file yang bisa yang disimpan di git repositori agar ketika melakukan add dan commit ada file yang tidak ikut terbawa ke dalam commit
 
 3 Area pada git repo
 - working tree          = folder tempat bekerja
@@ -54,3 +55,10 @@ Contoh command pada git
 - git fetch <namaremote>        = untuk mengambil commit dari repo bisa dari repo orang lain (contoh git fetch tesmultiple)
 - git merge <nama remote>/<nama branch>        = untuk menggabungkan perubahan file repo yang ada di git lokal dan di github orang lain (contoh git merge tesmultiple/main)
 - git remote add <nama remote> https://        = bisa digunakan untuk meremote repo orang lain agar repo yang kita punya bisa sinkron (contoh git remote add tesmultiple https://github.com/ardianugerahwicaksana/tes-multiple-remote.git)
+- .gitignore                    = untuk menampung file yang tidak ingin pergi ke staging area 
+                                 (website yang berguna untuk menentukan file apa saja yang masuk di git ignore yakni
+                                 
+                                 github.com/github/gitignore 
+                                 gitignore.io
+                                 
+                                 )  
